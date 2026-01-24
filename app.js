@@ -32,15 +32,15 @@
     // Spotlight Slideshow
     const spotlightData = [
       {
-        name: "Nelson Xedro",
-        role: "President Scholar | Freshman",
-        bio: "Livingstone College student who likes building systems that make work more efficient, from automating club tasks to streamlining study workflows.",
-        achievements: ["Coursera - Google IT Support", "AWS Educate - Cloud Foundations Badge", "freeCodeCamp - Responsive Web Design", "LinkedIn Learning - Learning Python"],
+        name: "Nelson Kwesi Xedro",
+        role: "Founder & President @ ColorStackLC | Honors Scholar",
+        bio: "Loves to build, grow and to explore new areas TECH related.",
+        achievements: ["Coursera - Meta Programming in Python", "AWS Educate - AWS Cloud Practitioner", "Udemy - Full Stack Web Development", "LinkedIn Learning - Data Analytics"],
         image: "https://i.imgur.com/2f2C9hi.jpeg"
       },
       {
         name: "Cephas Osei-Bonsu",
-        role: "President Scholar | Freshman",
+        role: "Vice President @ ColorStackLC | Freshman",
         bio: "Livingstone College student who loves AI, making impact, and building scalable projects that help peers learn and connect.",
         achievements: ["Coursera - AI for Everyone", "Kaggle - Intro to Machine Learning", "HackerRank - Python (Basic) Certificate", "Google Cloud Skills Boost - Generative AI Fundamentals"],
         image: "https://i.imgur.com/TefBLyb.jpeg"
